@@ -1,5 +1,5 @@
 import React from "react"
-import Navbar from "./components/navbar"
+import Navbar from "./components/Navbar"
 import Model3_icon from "./assets/HomepageModel3.jpeg"
 import MainPart from "./components/MainPart"
 import ModelX_icon from "./assets/ModelX.jpeg"
